@@ -25,6 +25,7 @@ nav {
 .arrow-left {
   float: left;
 }
+
 /* NOTE: This is everything below the nav bar */
 
 .restaurant-list {
@@ -47,7 +48,6 @@ nav {
   display: inline-block;
   margin: 0 auto;
   padding: 15px 15px;
-
 }
 
 .arrow {
@@ -63,11 +63,9 @@ nav {
   font-size: 1.5em;
   font-weight: bold;
   padding-bottom: 5px;
-
 }
 
 .content h2 {
   text-align: left;
   font-size: 1em;
-
 }
